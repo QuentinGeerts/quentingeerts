@@ -21,7 +21,7 @@ Bienvenue sur mon profil GitHub ! 🚀 Passionné de développement et toujours 
 
 ## 📫 Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-geerts-quentin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/geerts-quentin/)
-[![Email](https://img.shields.io/badge/gmail-quentin.geerts@bstorm.be-red?style=flat&logo=gmail)](quentin.geerts@bstorm.be)
+[![Email](https://img.shields.io/badge/Gmail-quentin.geerts@bstorm.be-red?style=flat&logo=gmail)](quentin.geerts@bstorm.be)
 
 ## 🎯 Fun Fact
 > "Le code, c'est comme l'humour : si tu dois l'expliquer, c'est qu'il n'est pas bon." 😆
