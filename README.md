@@ -20,7 +20,7 @@ Bienvenue sur mon profil GitHub ! 🚀 Passionné de développement et toujours 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinGeerts&layout=compact&theme=radical)
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-geerts-quentin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/geerts-quentin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-geertsquentin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/geerts-quentin/)
 [![Email](https://img.shields.io/badge/Gmail-quentin.geerts@bstorm.be-red?style=flat&logo=gmail)](quentin.geerts@bstorm.be)
 
 ## 🎯 Fun Fact
